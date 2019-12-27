@@ -1,3 +1,6 @@
+#2018 Boto3 script modified for performance and utilizing new learnings
+
+
 import boto3, pprint, time, awsKeys, Config
 #List Glue Jobs & Copy to other ENV
 #Pass Glue Job name variable to Promote in Array
